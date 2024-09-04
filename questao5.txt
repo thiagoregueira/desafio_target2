@@ -1,0 +1,5 @@
+Primeiro ligaria apenas um interruptor por um bom período, depois gastaria uma ida
+à sala das lâmpadas e verificaria qual delas estaria mais quente que as outras, então 
+vincularia o interruptor à lâmpada.
+Posteriormente faria a mesma coisa com outro interruptor e lâmpada gastando a 2º ida as salas.
+Após isso só restaria mais um par de interruptor e lâmpada para vincular e Problema resolvido ! 
